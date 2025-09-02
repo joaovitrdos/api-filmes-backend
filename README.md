@@ -1,4 +1,4 @@
-<h1>API DE FILMES</h1>
+<h1 align="center">API DE FILMES</h1>
 
 ````markdown
 # API Filmes
