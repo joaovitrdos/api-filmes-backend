@@ -1,6 +1,4 @@
-Beleza! Vou criar um README.md no estilo detalhado, usando títulos em markdown (`#` para h1, `##` para h2, etc), exemplos de comandos com `httpie` e tudo mais, baseado no seu projeto de API Filmes.
-
-Segue o conteúdo:
+<h1>API DE FILMES</h1>
 
 ````markdown
 # API Filmes
